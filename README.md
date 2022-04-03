@@ -9,7 +9,7 @@
 
     - At first site have a navbar. Then a banner section contain a image and some info about company.
 
-* And the reviews section- Three reviews has shown Where user name desc rating is showing.
+    * And the reviews section- Three reviews has shown Where user name desc rating is showing.
 
     - In the Reviews page all reviews showing those are site have ever. And here describe as like as home page.
 
