@@ -9,7 +9,7 @@ p{
     font-weight: 500;
     margin: 15px 0 !important;
 }
-button{
+.explore-btn{
     padding: 17px 40px;
     background-color:rgb(215, 225, 235);
     border: 0;
