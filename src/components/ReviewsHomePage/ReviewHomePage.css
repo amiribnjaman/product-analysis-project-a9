@@ -4,3 +4,9 @@
 h2{
     margin-bottom: 70px !important;
 }
+.reviews-btn{
+    padding: 12px 90px;
+    margin: 40px 0 10px 0 !important;
+    background-color: #c9dbdb;
+    border-radius: 5px;
+}

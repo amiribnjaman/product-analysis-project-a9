@@ -1,10 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { useReviews } from '../../customHooks/useReviews';
 import Review from '../Review/Review';
 import './ReviewHomePage.css';
 
 
 const ReviewsHomePage = () => {
+
     const [reviews] = useReviews()
     let reviewsLengthSlice;
     if (reviews.length > 3) {
@@ -12,6 +14,8 @@ const ReviewsHomePage = () => {
     } else {
         reviewsLengthSlice = reviews
     }
+
+
     return (
         <div className='text-center review-sec'>
             <h2>Clients Reviews ({reviews.length})</h2>
@@ -20,6 +24,9 @@ const ReviewsHomePage = () => {
                     reviewsLengthSlice.map(review => <Review key={review.id} review={review} />)
                 }
             </div>
+            <Link to='/reviews'>
+                <button className='reviews-btn'>Sell All Reviews</button>
+            </Link>
         </div>
     );
 };

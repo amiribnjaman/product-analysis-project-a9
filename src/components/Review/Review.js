@@ -3,8 +3,7 @@ import { Card } from 'react-bootstrap';
 import './Review.css';
 
 const Review = (props) => {
-    const { name, review, image, rating } = props.review
-    console.log(name);
+    const { name, review, image, rating } = props.review;
     return (
         <div className="col-md-4">
             <Card body className='card shadow-sm' style={{minHeight: '245px'}}> 
