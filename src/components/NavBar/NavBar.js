@@ -16,7 +16,6 @@ const NavBar = () => {
                             <CustomActiveLink className='navlink' to='/reviews'>REVIEWS</CustomActiveLink>
                             <CustomActiveLink className='navlink' to='/dashboard'>DASHBOARD</CustomActiveLink>
                             <CustomActiveLink className='navlink' to='/blog'>BLOGS</CustomActiveLink>
-                            <CustomActiveLink className='navlink' to='/about'>ABOUT</CustomActiveLink>
 
                         </Nav>
                     </Navbar.Collapse>

@@ -1,6 +1,6 @@
 # WANNA Hand Watch
 
-[Live site link](https://product-review-site-a9.netlify.app/).
+### Take a look here [Live site link](https://product-review-site-a9.netlify.app/).
 
 ## Site simple description
 
