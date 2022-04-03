@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Jack handson",
+        "review": "This is just incredible site. They provide beautiful services. Last two years I have been taking their products. I'm happy with them.",
+        "rating": 4.9,
+        "image": "./img/user1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rafid adnan",
+        "review": "Most of the time I spend my time in this site when I need anything to buy, cause their services just awesome. They always think about their clients. And ensure what their clients want.",
+        "rating": 5.0,
+        "image": "./img/user2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Chris rock",
+        "review": "Although their services is good but I'm not happy with their customer care. I hope they will well care about their customer. I buy a product but I wanted more information but their customer care officer dosen't responese as I wish.",
+        "rating": 4.4,
+        "image": "./img/user3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "William jonson",
+        "review": "Nope bad. But sometimes their site gone slow. I couldn't any take any action. Hope they will resolve these issue. Thanks.",
+        "rating": 4.8,
+        "image": "./img/user4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Hanna abdullah",
+        "review": "Awesome products they have. Last weak I had buy a product from there for my special one. She is happy. And gave me another gift one and she buy these from this also.",
+        "rating": 4.9,
+        "image": "./img/user5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dahiana wasza",
+        "review": "I'm a regular customer of them. Everytime they ensure me the best one. And I am happy with their product. But suddenly, The site take few time to load. Something wrong with server maybe. Take action about this. Thanks.",
+        "rating": 4.9,
+        "image": "./img/user-w-6.jpg"
+    }
+]
