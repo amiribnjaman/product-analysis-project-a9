@@ -1,5 +1,6 @@
-card{
+.card{
     min-height: 240px;
+    margin-bottom: 50px;
 }
 .card img{
     max-width: 60px;
