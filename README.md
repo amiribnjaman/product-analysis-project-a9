@@ -1,6 +1,6 @@
 # WANNA Hand Watch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live site link](https://product-review-site-a9.netlify.app/).
 
 ## Site simple description
 
