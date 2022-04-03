@@ -2,11 +2,14 @@
     margin-top: 80px;
 }
 h2{
+    margin-bottom: 30px !important;
+}
+.review-sec h2{
     margin-bottom: 70px !important;
 }
 .reviews-btn{
     padding: 12px 90px;
     margin: 0px 0 10 0 !important;
-    background-color: #c9dbdb;
+    background-color: rgb(215, 225, 235);
     border-radius: 5px;
 }

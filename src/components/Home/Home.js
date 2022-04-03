@@ -10,8 +10,8 @@ const Home = () => {
                 <div className='col-md-6 banner'>
                     <h1>WANNA Hand Watch</h1>
                     <h2>Your satisfaction is Our Goal.</h2>
-                    <p>We are internet based an e-commerce business company. Our main product is hand watch. Last 5 years you services with 100% clients satisfaction. We pioritised our clients satisfaction, its our main objective.</p>
-                    <button>Explore More</button>
+                    <p>We are internet based an e-commerce business company. Our main product is hand watch. Last 5 years we services with 100% clients satisfaction. We pioritised our clients satisfaction, its our main objective.</p>
+                    <button >Explore More</button>
                 </div>
                 <div className='col-md-6 ps-5'>
                     <img src={watch1} alt="" />
