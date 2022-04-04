@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div className='container my-5'>
             <div className='row d-flex align-items-center'>
-                <div className='col-md-6 banner mb-5 mb-md-0 text-center'>
+                <div className='col-md-6 banner mb-5 mb-md-0 text-center text-md-start'>
                     <h1>WANNA Hand Watch</h1>
                     <h2>Your satisfaction is Our Goal.</h2>
                     <p>We are internet based an e-commerce business company. Our main product is hand watch. Last 5 years we services with 100% clients satisfaction. We pioritised our clients satisfaction, its our main objective.</p>
