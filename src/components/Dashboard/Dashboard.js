@@ -55,7 +55,7 @@ const Dashboard = () => {
                     <Line type="monotone" dataKey="revenue" stroke="#F95E4F" />
                 </LineChart>
             </div>
-            <div className='mt-5 w-75 mx-auto'>
+            <div className='mt-5 w-75 mx-auto overflow-auto'>
                 <BarChart width={750} height={250} data={data}>
                     <CartesianGrid strokeDasharray="3 3 3" />
                     <XAxis dataKey="month" />
