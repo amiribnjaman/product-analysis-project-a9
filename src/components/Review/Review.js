@@ -10,7 +10,7 @@ const Review = (props) => {
                 <div className="img-box">
                     <img src={image} alt="" />
                 </div>
-                <h6 className='mt2'>Ratings: <span style={{ color: '#F6BE00;' }}>{rating}</span></h6>
+                <h6 className='mt2'>Ratings: <span style={{ color: '#F6BE00' }}>{rating}</span></h6>
                 <h5>&#8220;{name}&#8220;</h5>
                 <p>{review}</p>
             </Card>
