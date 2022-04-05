@@ -25,7 +25,7 @@ const ReviewsHomePage = () => {
                 }
             </div>
             <Link to='/reviews'>
-                <button className='reviews-btn'>Sell All Reviews</button>
+                <button className='reviews-btn'>See All Reviews</button>
             </Link>
         </div>
     );

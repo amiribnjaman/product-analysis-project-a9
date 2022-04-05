@@ -41,14 +41,15 @@ const Dashboard = () => {
         }
     ]
     return (
-        <div className='container mt-5 mb-5'>
+        <div className='container mt-5 mb-5' style={{ color: '#FD5D5D' }}>
+            <h3 className='text-center mb-5'>Investment VS Revenue</h3>
             <div className='w-75 mx-auto overflow-auto'>
                 <LineChart width={750} height={250} data={data}
                     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                     <CartesianGrid strokeDasharray="3 3 3" />
                     <XAxis dataKey="month" />
                     <YAxis />
-                    <Tooltip/>
+                    <Tooltip />
                     <Legend />
                     <Line type="monotone" dataKey="investment" stroke="#8884d8" />
                     <Line type="monotone" dataKey="sell" stroke="#82ca9d" />
@@ -60,7 +61,7 @@ const Dashboard = () => {
                     <CartesianGrid strokeDasharray="3 3 3" />
                     <XAxis dataKey="month" />
                     <YAxis />
-                    <Tooltip/>
+                    <Tooltip />
                     <Legend />
                     <Bar dataKey="investment" fill="#8884d8" />
                     <Bar dataKey="sell" fill="#82ca9d" />

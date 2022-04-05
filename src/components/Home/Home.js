@@ -13,7 +13,7 @@ const Home = () => {
                     <p>We are internet based an e-commerce business company. Our main product is hand watch. Last 5 years we services with 100% clients satisfaction. We pioritised our clients satisfaction, its our main objective.</p>
                     <button className='explore-btn'>Explore More</button>
                 </div>
-                <div className='col-md-6 ps-5'>
+                <div className='col-md-6 ps-md-5'>
                     <img src={watch1} alt="" />
                 </div>
             </div>
